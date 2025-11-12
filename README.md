@@ -42,7 +42,7 @@ This standalone novel is a deeply personal piece. It's a love letter written to 
 --- 
 
 #### *Deadly Sins:*
-This series marked a major milestone in my growth as a writer. However, halfway through, the series faced an unexpected hurdle: Amazon abruptly killed the release of **Book 5: *Lust***. To this day, the reason remains a mystery—no explanation, no remedy, and even Amazon staff couldn't clarify the issue. The entire pre-order page vanished, completely disrupting the middle of the series. The good news? All those unpublished works are now safe here in the archive. You can read them all for free!
+This series marked a major milestone in my growth as a writer. However, halfway through, the series faced an unexpected hurdle: Amazon abruptly killed the release of **Book 5: *Lust***. To this day, the reason remains a mystery—no explanation, no remedy, and even Amazon staff couldn't clarify the issue. The entire pre-order page vanished, completely disrupting the middle of the series. The good news? It's now safe here in the archive. You can read it for free!
 
 * *Demons Also Dream - Summoned (Book 1):*
     * [Free Download](novels/deadly-sins/demons-also-dream-summoned.epub)
@@ -58,17 +58,15 @@ This series marked a major milestone in my growth as a writer. However, halfway 
 * *Demons Rarely Share - Gluttony (Book 4):*
     * [Free Download](novels/deadly-sins/demons-rarely-share-gluttony.epub)
 
-* *Demons Never Lose - Greed (Book 5):*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+* *Demons Often Desire - Lust (Book 5):* <--BANNED by Amazon, NEVER SOLD anywhere
+    * [Free Download](novels/deadly-sins/demons-often-desire-lust.epub)
 
-* *Demons Never Lose - Greed (Book 6):*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+* *Demons Never Rest - Sloth (Book 6):* Fully edited but never published
+    * [Free Download](novels/deadly-sins/demons-never-rest-sloth.epub)
 
-* *Demons Never Lose - Greed (Book 7):*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
-
-* *Demons Never Lose - Greed (Book 8):*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+* *Demons Always Play - Pride (Book 7):* Draft finished, 50% of editing complete
+* *Demons Often Rage - Wrath (Book 8):* Act 1 drafted, left unfinished
+* *Demons Also Rise - Afterlife (Book 9):* Plotted
    
 ---
 
