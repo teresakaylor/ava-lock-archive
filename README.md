@@ -21,7 +21,7 @@ While the original [AvaLock.com](https://avalock.com) is no longer active (domai
 
 In the spirit of preservation and thanks to long-time readers, certain works or supplementary materials are provided here as a free resource.
 
-#### *The Womanoid Diaries*
+#### *The Womanoid Diaries* [Complete Trilogy Free Download](novels/womanoid-diaries/womanoid-diaries-complete-trilogy.epub)
 * *Alpha Bots (Book 1):* This book holds a special place, as it was my first deep dive into the concept of Artificial Intelligence. My relationship with AI has evolved so much since then: I've moved past creative speculation to applying it in the real world—specifically, leveraging non-GPT models and machine learning for complex back-end operations, not just fun story fodder.*
     * [Free Download](novels/womanoid-diaries/alpha-bots.epub)
     * [Original Retail Link](https://books2read.com/Alpha-Bots)
