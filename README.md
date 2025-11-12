@@ -41,6 +41,11 @@ This standalone novel is a deeply personal piece. It's a love letter written to 
    * [Goodreads](https://www.goodreads.com/book/show/150096150-space-hysteria)
 --- 
 
+#### *Witch Apocalyptic:*
+This never-published paranormal romance is a love letter written to my husband. **Once upon a time,** a conspiring old woman tried to come between us. It felt like the end of the world, but love does indeed conquer all.
+   * [Free Download](novels/witch-apocalyptic.epub)
+--- 
+
 #### *Deadly Sins:*
 This series marked a major milestone in my growth as a writer. However, halfway through, the series faced an unexpected hurdle: Amazon abruptly killed the release of **Book 5: *Lust***. To this day, the reason remains a mystery—no explanation, no remedy, and even Amazon staff couldn't clarify the issue. The entire pre-order page vanished, completely disrupting the middle of the series. The good news? It's now safe here in the archive. You can read it for free!
 
