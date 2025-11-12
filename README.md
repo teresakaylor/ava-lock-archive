@@ -20,32 +20,56 @@ While the original [AvaLock.com](https://avalock.com) is no longer active (domai
 ### 2. Books & Downloadable Content
 
 In the spirit of preservation and thanks to long-time readers, certain works or supplementary materials are provided here as a free resource.
----
 
 #### *The Womanoid Diaries*
 * *Alpha Bots (Book 1):* This book holds a special place, as it was my first deep dive into the concept of Artificial Intelligence. My relationship with AI has evolved so much since then: I've moved past creative speculation to applying it in the real world—specifically, leveraging non-GPT models and machine learning for complex back-end operations, not just fun story fodder.*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/alpha-bots.epub)
+    * [Free Download](novels/womanoid-diaries/alpha-bots.epub)
     * [Original Retail Link](https://books2read.com/Alpha-Bots)
 
 * *Beta Bots (Book 2):*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/beta-bots.epub)
+    * [Free Download](novels/womanoid-diaries/beta-bots.epub)
     * [Original Retail Link](https://books2read.com/Beta-Bots)
 
 * *Gamma Bots (Book 3):*
-    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+    * [Free Download](novels/womanoid-diaries/gamma-bots.epub)
     * [Original Retail Link](https://books2read.com/Gamma-Bots)
 ---
 
 #### *Space Hysteria:*
 This standalone novel is a deeply personal piece. It's a love letter written to my father, not the schizophrenic lost-in-space man that he is today, but the huggable daddy he was when I was a little girl. But make no mistake, it's horror watching Bob go insane.
-   * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/space-hysteria.epub)
+   * [Free Download](novels/space-hysteria.epub)
    * [Goodreads](https://www.goodreads.com/book/show/150096150-space-hysteria)
 --- 
 
 #### *Deadly Sins:*
-* **Demons Also Dream:** A collection of early, non-published short fiction pieces.
-    * **Download:** [Link to ZIP or folder in this repository]
+This series marked a major milestone in my growth as a writer. However, halfway through, the series faced an unexpected hurdle: Amazon abruptly killed the release of **Book 5: *Lust***. To this day, the reason remains a mystery—no explanation, no remedy, and even Amazon staff couldn't clarify the issue. The entire pre-order page vanished, completely disrupting the middle of the series. The good news? All those unpublished works are now safe here in the archive. You can read them all for free!
 
+* *Demons Also Dream - Summoned (Book 1):*
+    * [Free Download](novels/deadly-sins/demons-also-dream-summoned.epub)
+    * [Goodreads]([https://books2read.com/Beta-Bots](https://www.goodreads.com/book/show/202513773-demons-also-dream))
+
+* *Demons Never Lose - Greed (Book 2):*
+    * [Free Download](novels/deadly-sins/demons-never-lose-greed.epub)
+    * [Original Retail Link](https://books2read.com/Gamma-Bots)
+
+* *Demons Seldom Care - Envy (Book 3):*
+    * [Free Download](novels/deadly-sins/demons-seldom-care-envy.epub)
+
+* *Demons Rarely Share - Gluttony (Book 4):*
+    * [Free Download](novels/deadly-sins/demons-rarely-share-gluttony.epub)
+
+* *Demons Never Lose - Greed (Book 5):*
+    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+
+* *Demons Never Lose - Greed (Book 6):*
+    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+
+* *Demons Never Lose - Greed (Book 7):*
+    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+
+* *Demons Never Lose - Greed (Book 8):*
+    * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/gamma-bots.epub)
+   
 ---
 
 ## 🛑 Important Notices
