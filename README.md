@@ -36,12 +36,13 @@ In the spirit of preservation and thanks to long-time readers, certain works or 
     * [Original Retail Link](https://books2read.com/Gamma-Bots)
 ---
 
-* **Space Hysteria:** *[A brief summary or note on the book]*
-    * **Download:** [Link to PDF/EPUB file in this repository]
-    * **Original Retail Link:** [Link to Amazon/Goodreads for reference]
+#### *Space Hysteria:*
+This standalone novel is a deeply personal piece. It's a love letter written to my father, not the schizophrenic lost-in-space man that he is today, but the huggable daddy he was when I was a little girl. But make no mistake, it's horror watching Bob go insane.
+   * [Free Download](https://github.com/teresakaylor/ava-lock-archive/blob/main/novels/space-hysteria.epub)
+   * [Goodreads](https://www.goodreads.com/book/show/150096150-space-hysteria)
 --- 
 
-#### *Deadly Sins*
+#### *Deadly Sins:*
 * **Demons Also Dream:** A collection of early, non-published short fiction pieces.
     * **Download:** [Link to ZIP or folder in this repository]
 
