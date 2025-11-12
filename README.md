@@ -46,11 +46,10 @@ This series marked a major milestone in my growth as a writer. However, halfway 
 
 * *Demons Also Dream - Summoned (Book 1):*
     * [Free Download](novels/deadly-sins/demons-also-dream-summoned.epub)
-    * [Goodreads]([https://books2read.com/Beta-Bots](https://www.goodreads.com/book/show/202513773-demons-also-dream))
+    * [Goodreads](https://www.goodreads.com/book/show/202513773-demons-also-dream)
 
 * *Demons Never Lose - Greed (Book 2):*
     * [Free Download](novels/deadly-sins/demons-never-lose-greed.epub)
-    * [Original Retail Link](https://books2read.com/Gamma-Bots)
 
 * *Demons Seldom Care - Envy (Book 3):*
     * [Free Download](novels/deadly-sins/demons-seldom-care-envy.epub)
