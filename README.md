@@ -26,6 +26,8 @@ In the spirit of preservation and thanks to long-time readers, certain works or 
     * [Free Download](novels/womanoid-diaries/alpha-bots.epub)
     * [Original Retail Link](https://books2read.com/Alpha-Bots)
 
+This eBook was even minted as an NFT. Why? Because I could. Equire magazine wrote all about it [here](https://www.esquire.com/entertainment/books/a40654712/crypto-books-future/).
+
 * *Beta Bots (Book 2):*
     * [Free Download](novels/womanoid-diaries/beta-bots.epub)
     * [Original Retail Link](https://books2read.com/Beta-Bots)
