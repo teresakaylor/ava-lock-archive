@@ -1,0 +1,6 @@
+# From the Author
+Fury Azazel first clawed her way into my life during a time when anger was my closest companion. I was knee-deep in a hell of my own making, grappling with the kind of rage that burns everything in its path. Fury didn't just show up—she demanded to be heard, a volatile mix of fire and frustration that mirrored my own struggles. She was everything I needed her to be: a fierce, unapologetic force of nature who wasn't afraid to take on the darkness, even when that darkness came from within.
+
+Writing this story was more than just a creative outlet—it was a survival mechanism. Fury became my way of confronting the demons I couldn't ignore, and in doing so, I found a voice that was raw, relentless, and, ultimately, real. This book is for anyone who's ever felt like the world was stacked against them, for those who've tasted the bitterness of betrayal, and for the ones who refuse to be defined by their scars. Fury isn't just a character—she's a testament to the power of embracing your own inner chaos and using it to forge something new, something fierce.
+
+I hope you find a bit of your own fire within these pages, and maybe, just maybe, Fury's story will help you face down the things that haunt you, too.
