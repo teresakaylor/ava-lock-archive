@@ -1,7 +1,11 @@
 # Product Listing: Demons Seldom Care
+
 **Status:** Published / Live
+
 **Platform:** Amazon Kindle / KDP
+
 **Category:** Urban Fantasy / Supernatural Suspense
+
 **Keywords:** *Lucifer, Sin City, Dark Humor, Occult Suspense, Demon Romance*
 
 ---
