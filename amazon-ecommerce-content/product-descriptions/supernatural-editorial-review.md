@@ -1,6 +1,5 @@
-Editorial Reviews
-Review
-By Lilian Lilyfield (the Book Revue) ★★★★★
+# Editorial Reviews
+## By Lilian Lilyfield (the Book Revue) ★★★★★
 
 In "Demons Also Dream: Summoned," the first installment of the "Deadly Sins" series, Ava Lock delivers a tantalizing blend of chilling suspense, intricate plots, and a parade of demons that redefine the paranormal fiction genre. This novel weaves a captivating tale where the lines between good and evil blur, leaving readers entranced and yearning for more.
 
