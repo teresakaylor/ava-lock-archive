@@ -9,6 +9,6 @@ This directory contains optimized product copy and visual assets used for my ind
 - **Consistency:** Maintained a unified brand voice across 12+ distinct product SKUs.
 
 **Contents**
-1. **Product Descriptions:** The "Sales Hook" copy for the product pages.
+1. **Product Descriptions:** The keyword-loaded "Sales Hook" copy for the product pages.
 2. **A+ Content Assets:** Visual marketing layouts (banners, comparison charts).
 3. **Ad Copy:** Short-form copy used for paid social media acquisition.
