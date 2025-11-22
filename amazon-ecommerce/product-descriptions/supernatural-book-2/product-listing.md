@@ -1,7 +1,11 @@
 # Product Listing: Demons Never Lose
+
 **Status:** Published / Live
+
 **Platform:** Amazon Kindle / KDP
+
 **Category:** Paranormal Thriller / Dark Fantasy
+
 **Keywords:** *Female Pirates, Supernatural Mystery, Sapphic Romance, Ghost Hunting, Caribbean Adventure*
 
 ---
